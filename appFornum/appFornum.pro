@@ -13,7 +13,10 @@ SOURCES += \
     mainapp.cpp
 
 HEADERS += \
-    mainapp.h
+    equation.h \
+    mainapp.h \
+    prime.h \
+    sin.h
 
 FORMS += \
     mainapp.ui
